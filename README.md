@@ -1,0 +1,2 @@
+# fifohash
+File - Folder Hash
